@@ -5,7 +5,8 @@ Said [@vidkidz/waflash](https://github.com/vidkidz/waflash "@vidkidz/waflash").
 
 **Our rewrite** is for **websites** who wants to add **flash games/apps to their website**, without **downloading 3rd Party Software.** *(e.g. the Flash Player App)*
 
-With **easy** to use **instructions**, *that's (kinda) well documented*, **everyone** with **little html/js knowledge** **can know how to use this!**
+~~With **easy** to use **instructions**, *that's (kinda) well documented*, **everyone** with **little html/js knowledge** **can know how to use this!**~~
+#### Soon.
 
 ------------
 
