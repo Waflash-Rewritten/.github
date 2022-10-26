@@ -1,4 +1,7 @@
-# Waflash Rewritten
+<p align="center">
+  <img src="https://wafr.tech/assets/embed/big.png" alt="WAFLASH Rewritten's Source Code will be Officially come soon.">
+</p>
+
 ### What is Waflash Rewritten?
 "Waflash is a WebAssembly Flash compatible player built with Emscripten. It supports both ActionScript 3.0 and 2.0."
 Said [@vidkidz/waflash](https://github.com/vidkidz/waflash "@vidkidz/waflash").
