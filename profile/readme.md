@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wafr.tech/assets/embed/big.png" alt="WAFLASH Rewritten's Source Code will be Officially come soon.">
+  <a href="https://wafr.tech/"><img src="https://wafr.tech/assets/embed/big.png" alt="WAFLASH Rewritten's Source Code will be Officially come soon."></a>
 </p>
 
 ### What is Waflash Rewritten?
